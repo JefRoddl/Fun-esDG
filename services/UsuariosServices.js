@@ -160,7 +160,7 @@ const UsuariosServices = {
     alterar,
     addEndereco,
     removerEndereco,
-    alteraEndereco: alterarEndereco,
+    alterarEndereco,
     addFormaDePagamento,
     removerFormaDePagamento,
     alterarFormaDePagamento
